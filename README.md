@@ -59,4 +59,4 @@ commands.txt
 
           Использование 🕹️
     Запуск
-node bot.js
+    node bot.js
